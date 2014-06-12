@@ -1,0 +1,5 @@
+This repo contains no particular project.
+It is a collection of various code snubs, works in progress etc, that I for some reason need to share with people in a code-friendly way.
+
+Unless you were directed here by me (mcFlaw), you'll likely not find anything usefull here.
+-mcFlaw
